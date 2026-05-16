@@ -1,10 +1,10 @@
-# 🧾 Smart Receipt Scanner & Expense Dashboard
+# Smart Receipt Scanner & Expense Dashboard
 
 A deep learning-powered web app that scans receipt images using OCR, automatically categorizes expenses, splits bills, and visualizes your spending — built with Streamlit and TensorFlow.
 
 ---
 
-## 🎯 What It Does
+## What It Does
 
 - Uploads and scans receipt images using **OCR (Tesseract)**
 - Extracts the **total amount** automatically from receipts
@@ -15,7 +15,7 @@ A deep learning-powered web app that scans receipt images using OCR, automatical
 
 ---
 
-## 🧠 ML Model Used
+## ML Model Used
 
 | Component | Details |
 |---|---|
@@ -28,7 +28,7 @@ Rule-based keyword correction is applied on top of the model for higher real-wor
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python 3.11
 - Streamlit
@@ -39,7 +39,7 @@ Rule-based keyword correction is applied on top of the model for higher real-wor
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 smart_receipt_app/
@@ -58,7 +58,7 @@ smart_receipt_app/
 
 ---
 
-## ⚙️ Setup & Run
+## Setup & Run
 
 ```bash
 # Clone the repo
@@ -88,17 +88,17 @@ streamlit run app.py
 
 ---
 
-## 📊 Expense Categories
+## Expense Categories
 
-- 🍔 Food & Dining
-- 🚗 Travel
-- 🛍 Online Shopping
-- 💡 Utilities
-- 🏥 Healthcare
+- Food & Dining
+- Travel
+- Online Shopping
+- Utilities
+- Healthcare
 
 ---
 
-## 👨‍💻 Authors
+## Authors
 
 - Eashan Nananya
 - Apeksha Dongre
