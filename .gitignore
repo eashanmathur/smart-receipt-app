@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/saved_receipts/
+model/expense_model.h5
+model/label_encoder.pkl
